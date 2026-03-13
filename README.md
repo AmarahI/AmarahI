@@ -26,13 +26,6 @@ Passionate Data Scientist with extensive experience in building end-to-end AI/ML
 
 ---
 
-### 📈 GitHub Stats
-
-![AmarahI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarahI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarahI&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/amarah-i-8292a31b2/](https://www.linkedin.com/in/amarah-i-8292a31b2/)
