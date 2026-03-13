@@ -36,7 +36,6 @@ Passionate Data Scientist with extensive experience in building end-to-end AI/ML
 ### 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/amarah-i-8292a31b2/](https://www.linkedin.com/in/amarah-i-8292a31b2/)
-- **Kaggle:** [Check out my Notebooks](https://www.kaggle.com/) (Search for Amarah I.)
 - **Location:** 📍 Bengaluru, India
 
 ---
